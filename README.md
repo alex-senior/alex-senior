@@ -1,4 +1,4 @@
-<h1>Hello World!👋, I'm Alex, a Software Engineer</h1>
+<h1>Hello World!👋 I'm Alex, a Software Engineer</h1>
 <p>I love creating software! This is the meaning of my life)</p>
 <h2>🚀 Tech Stack:</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="42" height="42" /></a>
